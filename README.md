@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Abdullah Patn](abdullahpatni.github.io/portfolio/), a passionate self-taught Full Stack web developer and a freelance software developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Abdullah Patni](abdullahpatni.github.io/portfolio/), a passionate self-taught Full Stack web developer and a freelance software developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abdullahpatni/abdullahpatni/main/code.gif" width="500" height="320" />

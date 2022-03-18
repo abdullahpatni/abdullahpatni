@@ -34,8 +34,7 @@ Hi, I'm [Abdullah Patni](abdullahpatni.github.io/portfolio/), a passionate self-
 <!--START_SECTION:waka-->
 ```text
 Angular        █████████████████████▒░░░   85.46 % 
-JavaScript     ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C++            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-JSON           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript     ████████████████████████▒   13.33 % 
+NodeJs         ████████████████████████▒   70.00 % 
 ```
 <!--END_SECTION:waka-->
